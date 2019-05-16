@@ -13,4 +13,4 @@
 * to previous position ''
 * add to end of line A
 * to blank g _
-
+* to middle line of screen: M, to end of screen:L
