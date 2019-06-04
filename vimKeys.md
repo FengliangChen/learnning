@@ -27,8 +27,10 @@
 
 对应*normal*、*visual*、*insert*模式的 *nmap*、*vmap*和*imap*
 
-按键：<c-d>， <cr>, <esc>
-
+按键：
+```
+<c-d>， <cr>, <esc>
+```
 非递归映射： noremap, nnoremap, vnoremap, inoremap
 
 Leader键： let mapleader = ","
